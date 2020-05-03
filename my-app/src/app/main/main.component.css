@@ -1,0 +1,13 @@
+.col-sm {
+    height: 350px;
+    margin-bottom: 70px;
+}
+
+.font-green{
+    color: rgb(134, 159, 28);
+}
+
+.small {
+    font-size: 14px;
+    color: lightslategray;
+}
